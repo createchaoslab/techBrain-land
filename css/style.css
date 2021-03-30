@@ -473,7 +473,8 @@ body {
         height: auto;
     }
     .tabs__item{
-        height: 300px;
+        min-height: 300px;
+        height: auto;
     }
     .tabs__title{
         font-size: 20px;
